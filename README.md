@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Salut, je suisJonas], et je vous souhaite la bienvenue sur mon espace GitHub. Laissez-moi vous en dire un peu plus sur moi.
+Salut, je suis Jonas, et je vous souhaite la bienvenue sur mon espace GitHub. Laissez-moi vous en dire un peu plus sur moi.
 
 ## À propos de moi 👨‍💻
 
